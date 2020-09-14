@@ -6,13 +6,13 @@
 
 ##### 1. Testing communication is realized by  user datagram protocol.
 
-![](D:\Qt\My\Tcp and Udp\pic\udp.png)
+![](https://github.com/HUIhuihuil/Qt-udp-tcp-demo/blob/master/pic/udp.png)
 
 ##### 2. Testing communication is realized by  transmission control protocol.
 
-![](D:\Qt\My\Tcp and Udp\pic\tcp.png)
+![](https://github.com/HUIhuihuil/Qt-udp-tcp-demo/blob/master/pic/tcp.png)
 
 ##### 3. Transfer files using transmission control protocol.
 
-![](D:\Qt\My\Tcp and Udp\pic\sendFile.png)
+![](https://github.com/HUIhuihuil/Qt-udp-tcp-demo/blob/master/pic/sendFile.png)
 
